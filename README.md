@@ -31,7 +31,8 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong i
 
 - 📰 **Fake News Detection** – [Journal paper under review](https://arxiv.org/pdf/2307.06979) in a Q2 NLP journal.  
 - 🎬 **Movie Rating Prediction using Plot Summaries** – Used NLP techniques and BERT to classify IMDB ratings.  
-- 🩺 **Dual Detection of Diabetic Retinopathy and Cataract** – Leveraged pretrained CNNs for simultaneous diagnosis.  
+- 🩺 **Dual Detection of Diabetic Retinopathy and Cataract** – Leveraged pretrained CNNs for simultaneous diagnosis.
+- 🌐 **Mitigating Racial Bias using GNN** – Explored Graph Neural Networks to reduce bias in NLP tasks through graph-based modeling.    
 - 📈 **Cryptocurrency Closing Value Prediction** – Applied linear regression on CoinMarketCap data.  
 - 📞 **Telecom Customer Churn Prediction** – Analyzed churn using correlation matrix and various traditional ML models.  
 - 🧠 **Toxicity Detection from Tweets** – Used traditional NLP and ML approaches for toxicity classification.  
