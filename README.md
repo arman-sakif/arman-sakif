@@ -12,9 +12,7 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong i
   - Natural Language Processing (NLP)  
   - Machine Learning  
   - Big Data  
-  - Data Mining  
-- 📜 **Research Work:**  
-  - Currently have a **journal paper on fake news detection** under review in a Q2 journal (NLP domain)  
+  - Data Mining
 - 🛠️ **Experience:**  
   - Worked remotely for nearly a year as a **Python Developer** at Techscope org.  
 - ☁️ **Knowledgeable in:**  
@@ -24,6 +22,19 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong i
   (through undergraduate and online courses)  
 - 🛡️ **Cybersecurity:**  
   - Completed an 11-week workshop by Sterling, gaining foundational knowledge in cybersecurity  
+
+---
+
+## 🧪 Research Work  
+
+- 📰 **Fake News Detection** – Journal paper under review in a Q2 NLP journal.  
+- 🎬 **Movie Rating Prediction using Plot Summaries** – Used NLP techniques and BERT to classify IMDB ratings.  
+- 🩺 **Dual Detection of Diabetic Retinopathy and Cataract** – Leveraged pretrained CNNs for simultaneous diagnosis.  
+- 📈 **Cryptocurrency Closing Value Prediction** – Applied linear regression on CoinMarketCap data.  
+- 📞 **Telecom Customer Churn Prediction** – Analyzed churn using correlation matrix and various traditional ML models.  
+- 🧠 **Toxicity Detection from Tweets** – Used traditional NLP and ML approaches for toxicity classification.  
+- 💻 **Laptop Price Prediction** – Implemented linear regression to model laptop prices based on specifications.  
+
 
 ---
 
