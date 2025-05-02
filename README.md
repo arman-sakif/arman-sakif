@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong i
 
 ## 🚀 About Me  
 - 🔧 **Proficient in:** Python (my go-to language), Java, C, C++, Dart  
-- 🌐 **Web Development:** Experienced in building robust web applications with Django  
-- 📱 **Mobile Development:** Skilled in Flutter and native Android development (Java/Kotlin)  
+- 🌐 **Web Development:** Experienced in building robust web applications with Django and ReactJS
+- 📱 **Mobile Development:** Skilled in Flutter and native Android development (Java)  
 - 💻 **Research Interests:**  
   - Natural Language Processing (NLP)  
   - Machine Learning  
@@ -16,9 +16,11 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong i
 - 🛠️ **Experience:**  
   - Worked remotely for nearly a year as a **Python Developer** at Techscope org.  
 - ☁️ **Knowledgeable in:**  
-  - Project Management  
-  - Database Management  
-  - AWS  
+  - Project Management (Agile, SCRUM, Lean)
+  - Database Management, Distributed Database, Transaction Management, Concurrency Control
+  - Big Data Processing, Hadoop, Apache Spark, PySpark
+  - AWS, Azure
+  - Systems Programming and Linux  
   (through undergraduate and online courses)  
 - 🛡️ **Cybersecurity:**  
   - Completed an 11-week workshop by Sterling, gaining foundational knowledge in cybersecurity  
@@ -75,14 +77,15 @@ I aim to grow as a **Data Scientist** or **AI/ML Engineer**, using cutting-edge 
 ---
 
 🌱 I’m currently learning 
-- Systems Programming and Linux  
-- Advanced Database Systems  
+- Advanced Computer Networking and Data Security
+- Internet Applications and Distributed Systems
+- Resource efficient offline generative AI models
 
 ---
 
 ## 🌟 Fun Facts  
 - 📚 I love diving into research and solving complex problems.  
-- 🏋️‍♂️ Health and fitness are an integral part of my routine. Soccer is my favorite sport.  
+- 🏋️‍♂️ Health and fitness are an integral part of my routine. Soccer is my favorite sport. I also play volleyball and badminton. Love hiking and biking. 
 
 ---
 
