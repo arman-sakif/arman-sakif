@@ -1,13 +1,3 @@
-<!--
-**arman-sakif/arman-sakif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-
--->
-
 # 👋 Hi there, I'm Arman Sakif!  
 
 Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong inclination toward data science, AI, and machine learning. Here's a little more about me:  
@@ -30,10 +20,36 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong i
 - ☁️ **Knowledgeable in:**  
   - Project Management  
   - Database Management  
-  - AWS
+  - AWS  
   (through undergraduate and online courses)  
 - 🛡️ **Cybersecurity:**  
   - Completed an 11-week workshop by Sterling, gaining foundational knowledge in cybersecurity  
+
+---
+
+## 🎓 Education  
+🎓 **Master of Applied Computing**  
+**University of Windsor, Ontario, Canada**  
+*September 2024 – Present*  
+- Completed **Fall 2024** and **Winter 2025** terms. By Summer 2025, all coursework will be completed.  
+- Currently seeking a **4–8 month internship** starting **September 2025** to fulfill the final term requirement.  
+
+**📚 Courses Taken:**  
+
+**Fall 2024:**  
+- *Advanced Software Engineering* – Explored Agile, Scrum, and Lean; built a cross-platform mobile app using Flutter.  
+- *Advanced Computing Concepts* – Studied algorithm design, analysis, and optimization.  
+- *Topics in Artificial Intelligence (Graph Neural Networks)* – Worked on a research-oriented project using GNNs.
+
+**Winter 2025:**  
+- *Advanced Systems Programming* – Learned Unix systems programming, shell scripting, and CLI tools.  
+- *Advanced Database Topics* – Covered MySQL, MongoDB, distributed systems, and Big Data tools (Hadoop, PySpark).  
+- *Natural Language Processing and Understanding* – Implemented a research-based NLP project with state-of-the-art models.
+
+**Summer 2025 (Upcoming):**  
+- *Internet Applications and Distributed Systems*  
+- *Networking and Data Security*  
+- *Internship Project I*  
 
 ---
 
@@ -48,14 +64,14 @@ I aim to grow as a **Data Scientist** or **AI/ML Engineer**, using cutting-edge 
 ---
 
 🌱 I’m currently learning 
-- Systems Programming and Linux
-- Advanced Database Systems
+- Systems Programming and Linux  
+- Advanced Database Systems  
 
 ---
 
 ## 🌟 Fun Facts  
 - 📚 I love diving into research and solving complex problems.  
-- 🏋️‍♂️ Health and fitness are an integral part of my routine. Soccer is my favorite sports.   
+- 🏋️‍♂️ Health and fitness are an integral part of my routine. Soccer is my favorite sport.  
 
 ---
 
@@ -64,4 +80,3 @@ I aim to grow as a **Data Scientist** or **AI/ML Engineer**, using cutting-edge 
 - 📧 Email: armansakif90@gmail.com  
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Let’s collaborate and innovate together! 🚀  
-
