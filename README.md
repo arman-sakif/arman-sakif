@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong i
   - Big Data  
   - Data Mining
 - 🛠️ **Experience:**  
-  - Worked remotely for nearly a year as a **Python Developer** at Techscope org.  
+  - Worked remotely for nearly a year as a **Python Developer** at Techscope org.
+  - 3 years of experience working as a Back-End Developer and customer support at ProyogLab.
 - ☁️ **Knowledgeable in:**  
   - Project Management (Agile, SCRUM, Lean)
   - Database Management, Distributed Database, Transaction Management, Concurrency Control
