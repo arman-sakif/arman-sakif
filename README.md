@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong i
 
 ## 🌐 portfolio website 
  
-[https://armansakif.vercel.app/][https://armansakif.vercel.app/]
+[https://armansakif.vercel.app/](https://armansakif.vercel.app/)
 
 
 
