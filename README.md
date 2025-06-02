@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I’m a passionate tech enthusiast with a strong inclination toward data science, AI, and machine learning. Here's a little more about me:  
 
 
-## 🚀 portfolio website 
+## 🌐 portfolio website 
  
-🌐 https://armansakif.vercel.app/
+[https://armansakif.vercel.app/][https://armansakif.vercel.app/]
 
 
 
