@@ -70,7 +70,6 @@ Welcome to my GitHub profile! I'm a passionate technologist specializing in data
 **University of Windsor, Ontario, Canada**  
 *September 2024 – Present*  
 - Completed **Fall 2024** and **Winter 2025** terms. By Summer 2025, all coursework will be completed.  
-- Currently seeking a **4–8 month internship** starting **September 2025** to fulfill the final term requirement.  
 
 **📚 Courses Taken:**  
 
@@ -84,10 +83,13 @@ Welcome to my GitHub profile! I'm a passionate technologist specializing in data
 - *Advanced Database Topics* – Covered MySQL, MongoDB, distributed systems, and Big Data tools (Hadoop, PySpark).  
 - *Natural Language Processing and Understanding* – Implemented a research-based NLP project with state-of-the-art models.
 
-**Summer 2025 (Upcoming):**  
+**Inter-Summer 2025:**  
 - *Internet Applications and Distributed Systems*  
 - *Networking and Data Security*  
-- *Internship Project I*  
+- *Internship Project I (MealLens Inc.*
+
+**Fall 2025:**  
+- *Co-op workterm-1* 
 
 ---
 
