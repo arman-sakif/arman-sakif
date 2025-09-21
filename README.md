@@ -51,16 +51,32 @@ Welcome to my GitHub profile! I'm a passionate technologist specializing in data
 ---
 
 ## 💻 Professional Experience
-**Python Developer** @ Techscope (Remote)  
-*2023 - 2024*  
-- Built scalable data pipelines processing 100k+ daily records
-- Implemented unit tests reducing bugs by 40%
+**AI Solutions and BI Developer Co-op** @ [FGF Brands] (North York, ON)  
+*Sep 2024 – Present*  
+`Power BI` `Databricks` `PySpark` `SQL`
 
-**Back-End Developer** @ ProyogLab  
-*2020 - 2023*  
-- Led migration from monolithic to microservices architecture
-- Developed REST APIs handling 50K+ daily requests
-- Implemented real-time analytics dashboard using Django and React
+- Designed and published dynamic **Power BI** dashboards and reports by integrating data from multiple sources, leveraging **Copilot** for enhanced insights and automation.
+- Engineered real-time data ingestion and transformation workflows in **Databricks** using **PySpark**, implementing streaming pipelines and scheduling tasks via **cron expressions**.
+- Optimized **SQL** queries and established connections between external systems to enable seamless data access and analysis.
+
+**Python Developer Consultant** @ [Techscope] (New York, USA - Remote)  
+*Sep 2023 – Aug 2024*  
+`Python` `Pandas` `JSON` `ANTLR` `SQL`
+
+- Developed scalable **Python** applications for data processing, transformation, and analysis; regularly involved in cleaning and preparing data after acquisition.
+- Devised SQL-based data **ETL (Extract, Transform, Load)** pipelines to optimize data processing workflows on a transactional database of over **100,000 entries**.
+- Performed comprehensive unit testing using Python’s **unittest** framework, **reducing error rates by 25%**, enabling early bug detection, and enhancing software reliability.
+- Engaged with clients directly to gather requirements, analyze business processes, and integrated them into team sprints to facilitate collaboration.
+
+**Back-End Developer & Customer Support** @ ProyogLab (Dhaka, Bangladesh)  
+*May 2020 – Aug 2023*  
+`React` `Node.js` `Python` `Power BI` `Data Warehouse`
+
+- Provided hands-on technical support to customers, assisting with **Arduino-based hardware projects** and troubleshooting embedded systems issues.
+- Managed day-to-day sales operations in a startup retail environment, helping scale product distribution from hobbyist kits to educational bundles.
+- Played a key role in transitioning company to an online model, contributing to **website architecture and backend functionality**, including visual dashboard using modern web technologies.
+- Developed and maintained **backend systems** for e-commerce operations, including inventory management, order processing, and data integration. Generated monthly reports using **Power BI** tools to report progress.
+
 
 ---
 
