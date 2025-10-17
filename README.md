@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I'm a passionate technologist specializing in data
 ---
 
 ## 🧪 Research & Projects
-### Publiscation (Under Revision)
+### Publications
 - **Fake News Detection**  
-  [Journal paper under review](https://arxiv.org/pdf/2307.06979) in Q2 NLP journal  
+  [Journal paper Preprint](https://arxiv.org/pdf/2307.06979) in SN Computer Science journal  
   *Developed ensemble model achieving 92% accuracy on benchmark datasets*
 
 ### AI/ML Projects
